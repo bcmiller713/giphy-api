@@ -1,0 +1,23 @@
+.button {
+	margin: 5px 10px;
+}
+
+.gif-div {
+	margin: 20px;
+	display: inline-block;
+}
+
+.jumbotron {
+	margin-top: 12px;
+	background-color: #586ed8;
+	color: #fff;
+}
+
+body {
+	background-color: lightgrey;
+}
+
+.container {
+	background-color: white;
+	min-height: 735px;
+}
